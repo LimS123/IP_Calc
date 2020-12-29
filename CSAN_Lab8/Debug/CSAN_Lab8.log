@@ -1,0 +1,7 @@
+﻿  Source.cpp
+G:\OneDrive\учёба\3-й_семестр\КСиС\CSAN_Lab8\CSAN_Lab8\Source.cpp(89,21): warning C4018:  <=: несоответствие типов со знаком и без знака
+G:\OneDrive\учёба\3-й_семестр\КСиС\CSAN_Lab8\CSAN_Lab8\Source.cpp(93,23): warning C4018:  <=: несоответствие типов со знаком и без знака
+G:\OneDrive\учёба\3-й_семестр\КСиС\CSAN_Lab8\CSAN_Lab8\Source.cpp(148,32): warning C4244:  +=: преобразование "double" в "int", возможна потеря данных
+G:\OneDrive\учёба\3-й_семестр\КСиС\CSAN_Lab8\CSAN_Lab8\Source.cpp(108,11): warning C4101:  mod: неиспользованная локальная переменная
+G:\OneDrive\учёба\3-й_семестр\КСиС\CSAN_Lab8\CSAN_Lab8\Source.cpp(108,6): warning C4101:  bin: неиспользованная локальная переменная
+  CSAN_Lab8.vcxproj -> G:\OneDrive\учёба\3-й_семестр\КСиС\CSAN_Lab8\Debug\CSAN_Lab8.exe
